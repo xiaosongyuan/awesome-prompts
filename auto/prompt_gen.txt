@@ -1,0 +1,17 @@
+# Works for most LLMs
+Given some grade-level questions and corresponding solutions (with lots of reasoning steps which are split by "\n\n"), 
+there are some domain-related knowledge retrospections,
+knowledge types such as definition, axiom, theorem, lemma, formula, hypothesis, theory, principle, domain constant
+within the solutions, and these domain knowledge can be categorized into several types of usefulness (some of them may not exist): 
+(1) wrong knowledge; 
+(2) knowledge that is not relevant or not helpful for the solving process but is generally correct in the real world; 
+(3) correct knowledge that is relevant to the question but not helpful for the correct solving process; 
+(4) correct knowledge that is relevant to both the question and the correct solving process. 
+Now I want to employ the {model} model to extract all the knowledge within these solutions with an exquisitely designed prompt. 
+The {model} needs to output a Python List for a given question and solution that contains:
+- "Knowledge Type"
+- "Knowledge Usefulness"
+- "Step Order"
+- "Step Content" 
+of all the domain knowledge retrospection steps within the solution. 
+Could you consider all the above contents and write a prompt to let {model}'s output meet all my requirements?

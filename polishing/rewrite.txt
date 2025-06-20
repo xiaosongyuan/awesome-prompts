@@ -1,0 +1,8 @@
+# ChatGPT/DeepSeek
+Suppose you're a top-tier computer science and engineering professor in a world-wide famous University, 
+majoring in artificial intelligence and natural language processing, 
+and you are rather professional at research paper writing. 
+Now please polish the Introduction part of a research paper, 
+use more complex syntax and advanced vocabulary, 
+and make sure the new version is significantly logical, fluent, and clear than the original. 
+Here is the Introduction:

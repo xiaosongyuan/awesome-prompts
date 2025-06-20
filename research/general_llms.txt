@@ -1,0 +1,7 @@
+# Perplexity/Gemini-deepresearch/Grok-3-deepsearch
+I'm going to analyze why and how there are some domain-related knowledge recall, 
+such as: retrospect question-related principles/theorems/axioms and other types of knowledge, 
+steps within the large language models (LLMs) reasoning process.
+I prefer to delve into the LLMs' inner parameters or the inference process to figure out why and how such a phenomenon can happen. 
+Could you investigate all the related research papers in a detailed manner and write a very related and comprehensive survey on this topic? 
+It would be better if you could provide a few appropriate analysis algorithms alongside the survey
